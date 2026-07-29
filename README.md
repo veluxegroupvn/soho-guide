@@ -25,6 +25,7 @@ ever disagree. Late check-out, luggage storage, mid-stay cleaning tiers were
 last reconciled to the SOP on this date.
 
 ## Still to build
-- Rivergate guide (copy this file, edit CONFIG + the two BUILDING-SPECIFIC blocks)
-- Tresor guide (same)
+- Tresor guide (copy this file, edit CONFIG + the two BUILDING-SPECIFIC blocks)
 - Printed card redesign to match the SOP's late check-out numbers
+
+Rivergate guide is done, see `../veluxe-rivergate-guide/`.
